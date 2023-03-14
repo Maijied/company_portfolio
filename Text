@@ -1,0 +1,73 @@
+Email configuration settings for “contact@innovexit.net”.
+
+
+Mail Client Manual Settings
+---------------------------
+
+Secure SSL/TLS Settings (Recommended)
+
+Username:
+
+contact@innovexit.net
+
+Password:
+
+Use the email account’s password.
+
+Incoming Server:
+
+mail.innovexit.net
+
+  * IMAP Port: 993
+
+  * POP3 Port: 995
+
+Outgoing Server:
+
+mail.innovexit.net
+
+  * SMTP Port: 465
+
+IMAP, POP3, and SMTP require authentication.
+
+Non-SSL Settings (NOT Recommended)
+
+Username:
+
+contact@innovexit.net
+
+Password:
+
+Use the email account’s password.
+
+Incoming Server:
+
+mail.innovexit.net
+
+  * IMAP Port: 143
+
+  * POP3 Port: 110
+
+Outgoing Server:
+
+mail.innovexit.net
+
+  * SMTP Port: 587
+
+IMAP, POP3, and SMTP require authentication.
+
+A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS® Mail.app® for Mountain Lion (10.8+) is attached to this message.
+
+This notice is the result of a request made by a computer with the IP address of “27.147.226.10” through the “cpanel” service on the server.
+
+The remote computer’s location appears to be: Bangladesh (BD).
+
+The remote computer’s IP address is assigned to the provider: “SYL-Retail-NAT route object for 27.147.226.0/24”
+
+The system generated this notice on Monday, April 22, 2019 at 6:20:09 PM UTC.
+
+Do not reply to this automated message.
+
+cP
+
+Copyright© 2019 cPanel, Inc.

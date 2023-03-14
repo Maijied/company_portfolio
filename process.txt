@@ -1,0 +1,14 @@
+What is CRUD?
+   -CRUD is an application system for Create, Read, Update, and Delete. CRUD operations are basic data manipulation for database.
+
+
+Steps:
+
+1: The Database Table
+2: The Config File
+3: The Landing Page
+4: The Create Page
+5: he Read Page
+6: The Update Page
+7: The Delete Page
+8: The Error Page
