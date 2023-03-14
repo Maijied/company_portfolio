@@ -15,7 +15,7 @@ This repository contains the source code for our company's website portfolio. Ou
  ## Installation 
  To install this repository, clone it using the following command:  
 
- `git clone https://github.com/companyname/website_portfolio.git`
+ `git clone https://github.com/Maijied/company_portfolio`
 
  ## Usage 
  After cloning the repository, you can open the index.html file in your browser to view the portfolio. You can also customize the design of the portfolio by editing the CSS files in the css folder.  
